@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "114566666150",
+    "firebase_url": "https://djangofcm-9609b.firebaseio.com",
+    "project_id": "djangofcm-9609b",
+    "storage_bucket": "djangofcm-9609b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114566666150:android:2a3db989c99e2dbd",
+        "android_client_info": {
+          "package_name": "com.osw4l.django_fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114566666150-kt37jbpoa1uhc3u86qe209liqv850d22.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.osw4l.django_fcm",
+            "certificate_hash": "ecb75be102c5935a15bab048df6eceb8a06a8bc0"
+          }
+        },
+        {
+          "client_id": "114566666150-9g5mhgmrd492lo8f47cn8tlm5bkgv18h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4kuVYV67iBjYN3mWlgxPzVRfMkXrKKO8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114566666150-9g5mhgmrd492lo8f47cn8tlm5bkgv18h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
